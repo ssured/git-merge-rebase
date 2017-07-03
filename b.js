@@ -1,5 +1,5 @@
 export default function() {
-  console.log('I am C');
+  console.log('I am c');
 
-  return 'C';
+  return 'c';
 }
